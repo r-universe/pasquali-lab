@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "UMI4Cats"]
 	path = UMI4Cats
 	url = https://github.com/pasquali-lab/umi4cats
-	shallow = true
-	registered = true
